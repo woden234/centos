@@ -5,5 +5,7 @@
  require("db.class.php");
  $data['name']="zhanmuqiang";
 //$result= db::insert('note',$data);
-phpinfo();
+//phpinfo();
 //var_dump($result);die;
+  $a=array("1","2");
+var_dump($a);
